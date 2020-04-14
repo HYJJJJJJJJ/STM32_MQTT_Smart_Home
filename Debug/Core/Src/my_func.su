@@ -1,0 +1,8 @@
+my_func.c:18:4:ESP_8266_CHECK	8	static
+my_func.c:33:6:Get_Sensor_Data	8	static
+my_func.c:61:6:publish	16	static
+my_func.c:66:6:Data_publish	8	static
+my_func.c:80:6:Oled_show	80	static
+my_func.c:93:16:translate	120	static
+my_func.c:108:4:Get_Ctrl_Data	112	static
+my_func.c:147:6:Ctrl_task	16	static

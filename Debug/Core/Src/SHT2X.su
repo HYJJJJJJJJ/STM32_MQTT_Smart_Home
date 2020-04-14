@@ -1,0 +1,10 @@
+SHT2X.c:17:6:SHT20_Call	64	static
+SHT2X.c:42:7:SHT20_Measure_Humidity	8	static
+SHT2X.c:52:7:SHT20_Measure_Temperature	8	static
+SHT2X.c:62:7:SHT20_Measure	24	static
+SHT2X.c:130:6:SHT20_Reset	16	static
+SHT2X.c:155:9:SHT20_ReadRegister	16	static
+SHT2X.c:194:9:SHT20_WriteRegister	24	static
+SHT2X.c:232:9:SHT20_CheckSum_CRC8	32	static
+SHT2X.c:268:7:SHT20_Calculate	24	static
+SHT2X.c:278:6:SHT20_Print	24	static
